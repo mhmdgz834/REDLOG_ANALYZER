@@ -47,7 +47,11 @@ Copy code
 write the name file : auth.log
 this file is here and read this file :)
 
+
+
 ===== REDLOG ANALYZER REPORT =====
+
+
 SUDO       : 3
 SU         : 0
 ROOT       : 0
